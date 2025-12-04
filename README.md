@@ -37,7 +37,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
 
 **📈 Визуализация:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-plain.svg" title="Tableau" width="40" height="40"/>&nbsp;
+<img src="https://x-kit.ru/images/detailed/11/Yandex_DataLens_1sqq-mp.png" title="Tableau" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/microsoft-power-bi-2019.png" title="Power BI" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="40" height="40"/>&nbsp;
 
