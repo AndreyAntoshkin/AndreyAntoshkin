@@ -29,21 +29,14 @@
 
 ### 🛠️ Мой стек
 
-**📊 Анализ:**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
-
-**📈 Визуализация:**
-<img src="https://x-kit.ru/images/detailed/11/Yandex_DataLens_1sqq-mp.png" title="DataLens" width="40" height="40"/>&nbsp;
-<img src="https://datascientest.com/en/files/2021/04/illu_seaborn_blog-120.png" title="Seaborn" width="40" height="40"/>&nbsp;
+<img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Yandex-DataLens-Logo.png" title="DataLens" width="40" height="40"/>&nbsp;
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="40" height="40"/>&nbsp;
 <img src="https://www.diglib.org/wp-content/uploads/sites/3/2015/04/Plotly-logo.png" title="Plotly" width="40" height="40"/>&nbsp;
-
-**🔧 Инструменты:**
-<img src="https://optim.tildacdn.com/tild6131-3637-4236-a533-316165646432/-/resize/148x/-/format/webp/68747470733a2f2f7265.png.webp" title="Redash" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2170px-Microsoft_Excel_2013-2019_logo.svg.png" title="Excel" width="40" height="40"/>&nbsp;
 
 ---
 
@@ -52,16 +45,19 @@
 **🎯 [Аналитическая система обработки данных кибернетических систем здания](https://github.com/AndreyAntoshkin/Project_cybernetika)** – Краткое описание (Данный проект описывает в себе подход к анализу данных систем зданий, получение информации из которых может позволить принять решения в сторону автоматизации)  
 *Технологии: Python, Pandas, Matplotlib*
 
-**🎯 [Название проекта 2](ссылка)** – Краткое описание  
-*Технологии: SQL, Tableau*
+**🎯 [Проекты курса Аналитик данных](ссылка)** – Краткое описание (Пет-проекты)
+*Технологии: Python, Pandas, Matplotlib, Seaborn*
 
 ---
 
 ### 🎓 Образование и сертификаты
 
-- **Курс "Аналитик данных"** (Karpov.Courses ) – 2026
-- **SQL для анализа данных** (Stepik / Coursera) – 2024
-- **Основы Python для анализа данных** – 2024
+- **Курс "Аналитик данных"** (Karpov.Courses) – 2026
+- **Введение в SQL** (Stepik) – 2024
+- **Базовый курс по анализу данных от Т-Банк** – 2024
+- **НИУ МГСУ** (Информационные системы и технологии - Бакалавр) - 2025
+- **НИУ МГСУ** (Автоматизированные системы обработки информации - Магистр) - 2027
+- **НИУ МГСУ** (Управление проектами) - 2024
 
 ---
 
@@ -70,14 +66,3 @@
 💬 **Telegram:** [@sssxvs](https://t.me/sssxvs)  
 📧 **Email:** andreyantoxa04@gmail.com  
 📞**Телефон:** +7-968-534-16-45
-
----
-
-<div align="center">
-  
-### 📊 Активность GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=AndreyAntoshkin&show_icons=true&theme=default&hide_border=true" alt="Статистика" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyAntoshkin&layout=compact&theme=default&hide_border=true" alt="Языки" height="165"/>
-
-</div>
