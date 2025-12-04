@@ -1,51 +1,66 @@
-<!-- ШАПКА ПРОФИЛЯ -->
 <div align="center">
-  <h1>Привет, я Андрей Антошкин 👋</h1>
-  <h3>📊 Data Analyst </h3>
 
-  <!-- ССЫЛКИ -->
-  <a href="https://t.me/ssxvs">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:andreyantoxa04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+# Привет, я Андрей Антошкин 👋
+
+### Data Analyst | Начинающий специалист
+
+<a href="https://t.me/sssxvs">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="mailto:andreyantoxa04@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
 </div>
 
 ---
 
-<!-- БИОГРАФИЯ -->
-### 🧑‍💻 Обо мне
+### 👨‍💻 Обо мне
 
-*   🔍 **Исследую данные**, чтобы находить закономерности и проверять гипотезы.
-*   📈 **Строю дашборды** и визуализации в Tableau/Power BI, которые понятны бизнесу.
-*   🤖 **Автоматизирую** рутинные задачи с помощью Python и SQL.
-*   🧠 Постоянно учусь новому в области анализа, статистики и машинного обучения.
-*   💬 Открыт к коллаборациям по интересным проектам в сфере Data.
-*   📫 Как связаться: через [Telegram](https://t.me/ssxvs)
+Я Data Anlyst,
+
+Что я делаю:
+- 🔍 Изучаю данные, чтобы находить закономерности и проверять гипотезы
+- 📊 Учусь строить дашборды в Tableau и Power BI
+- 🤖 Автоматизирую задачи с помощью Python и SQL
+- 📚 Постоянно осваиваю новые инструменты анализа
+- 💡 Открыт к сотрудничеству в интересных проектах
+
+Связаться со мной можно через [Telegram](https://t.me/[your_telegram]) или [почту](mailto:your.email@gmail.com).
 
 ---
 
-<!-- ЯЗЫКИ И ТЕХНОЛОГИИ -->
-### 🛠 Мой стек технологий
+### 🛠 Технологии, которые я изучаю и применяю
 
-**Анализ и языки:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
+**Анализ данных:**
+- **Python** (Pandas, NumPy, Matplotlib)
+- **SQL** (PostgreSQL, MySQL)
+- **Jupyter Notebook**
+- Статистический анализ
 
-**Визуализация и BI:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-plain.svg" title="Tableau" width="40" height="40"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/microsoft-power-bi-2019.png" title="Power BI" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="40" height="40"/>&nbsp;
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" width="40" height="40"/>&nbsp;
+**Визуализация:**
+- **Tableau** / **Power BI**
+- **Excel** (сводные таблицы, графики)
+- **Google Sheets**
 
-**Инструменты и другое:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-plain.svg" title="Airflow" width="40" height="40"/>&nbsp;
+**Инструменты:**
+- **Git** и **GitHub**
+- **VS Code**
+- **Google Colab**
 
+---
+
+### 📈 Мои проекты
+
+Здесь будут мои учебные и pet-проекты по анализу данных. Пока что это пространство для будущих достижений! 🚀
+
+---
+
+<div align="center">
+
+### 📊 Активность на GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="Статистика GitHub" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" alt="Языки программирования" height="160"/>
+
+</div>
