@@ -34,17 +34,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
 
 **📈 Визуализация:**
-<img src="https://x-kit.ru/images/detailed/11/Yandex_DataLens_1sqq-mp.png" title="Tableau" width="40" height="40"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/microsoft-power-bi-2019.png" title="Power BI" width="40" height="40"/>&nbsp;
+<img src="https://x-kit.ru/images/detailed/11/Yandex_DataLens_1sqq-mp.png" title="DataLens" width="40" height="40"/>&nbsp;
+<img src="https://datascientest.com/en/files/2021/04/illu_seaborn_blog-120.png" title="Seaborn" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="40" height="40"/>&nbsp;
+<img src="https://www.diglib.org/wp-content/uploads/sites/3/2015/04/Plotly-logo.png" title="Plotly" width="40" height="40"/>&nbsp;
 
 **🔧 Инструменты:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>&nbsp;
-<img src="[https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3AMicrosoft_Office_Excel_%25282019%25E2%2580%25932025%2529.svg&psig=AOvVaw1cW0mshJUtMxXTF0lZ_7z9&ust=1764914877737000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNDakfiho5EDFQAAAAAdAAAAABAE)" title="Excel" width="40" height="40"/>&nbsp;
+<img src="https://optim.tildacdn.com/tild6131-3637-4236-a533-316165646432/-/resize/148x/-/format/webp/68747470733a2f2f7265.png.webp" title="Redash" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2170px-Microsoft_Excel_2013-2019_logo.svg.png" title="Excel" width="40" height="40"/>&nbsp;
 
 ---
 
