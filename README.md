@@ -44,13 +44,13 @@
 **🔧 Инструменты:**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" title="Excel" width="40" height="40"/>&nbsp;
+<img src="[https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3AMicrosoft_Office_Excel_%25282019%25E2%2580%25932025%2529.svg&psig=AOvVaw1cW0mshJUtMxXTF0lZ_7z9&ust=1764914877737000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNDakfiho5EDFQAAAAAdAAAAABAE)" title="Excel" width="40" height="40"/>&nbsp;
 
 ---
 
 ### 📁 Мои проекты
 
-**🎯 [Аналитическая система обработки данных кибернетических систем здания](ссылка)** – Краткое описание (Данный проект описывает в себе подход к анализу данных систем зданий, получение информации из которых может позволить принять решения в сторону автоматизации)  
+**🎯 [Аналитическая система обработки данных кибернетических систем здания](https://github.com/AndreyAntoshkin/Project_cybernetika)** – Краткое описание (Данный проект описывает в себе подход к анализу данных систем зданий, получение информации из которых может позволить принять решения в сторону автоматизации)  
 *Технологии: Python, Pandas, Matplotlib*
 
 **🎯 [Название проекта 2](ссылка)** – Краткое описание  
@@ -68,9 +68,9 @@
 
 ### 📞 Контакты
 
-💬 **Telegram:** [@ваш_логин](https://t.me/sssxvs)  
-📧 **Email:** ваша@почта.com  
-📞**Телефон:** [Андрей Антошкин](+7-968-534-16-45)
+💬 **Telegram:** [@sssxvs](https://t.me/sssxvs)  
+📧 **Email:** andreyantoxa04@gmail.com  
+📞**Телефон:** +7-968-534-16-45
 
 ---
 
