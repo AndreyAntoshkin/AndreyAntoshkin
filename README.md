@@ -1,66 +1,84 @@
 <div align="center">
-
-# Привет, я Андрей Антошкин 👋
-
-### Data Analyst | Начинающий специалист
-
-<a href="https://t.me/sssxvs">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<a href="mailto:andreyantoxa04@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
+  <h1>Привет, я Андрей Антошкин 👋</h1>
+  <h3>Data Analyst</h3>
+  
+  <a href="https://t.me/sssxvs">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="andreyantoxa04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
 
 ---
 
 ### 👨‍💻 Обо мне
 
-Я Data Anlyst,
+Я начинающий аналитик данных. Учусь находить смысл в цифрах и превращать данные в понятные инсайты. Верю, что хороший анализ помогает принимать правильные решения.
 
-Что я делаю:
-- 🔍 Изучаю данные, чтобы находить закономерности и проверять гипотезы
-- 📊 Учусь строить дашборды в Tableau и Power BI
-- 🤖 Автоматизирую задачи с помощью Python и SQL
-- 📚 Постоянно осваиваю новые инструменты анализа
-- 💡 Открыт к сотрудничеству в интересных проектах
+**Что умею и изучаю:**
+- 🔍 **Исследую данные** – ищу закономерности и проверяю гипотезы
+- 📊 **Визуализирую** – строю дашборды в Tableau/Power BI
+- 🤖 **Автоматизирую** – Python и SQL для рутинных задач
+- 📈 **Анализирую** – статистика, A/B-тесты, метрики
+- 🧠 **Учусь постоянно** – новые инструменты и подходы
 
-Связаться со мной можно через [Telegram](https://t.me/[your_telegram]) или [почту](mailto:your.email@gmail.com).
-
----
-
-### 🛠 Технологии, которые я изучаю и применяю
-
-**Анализ данных:**
-- **Python** (Pandas, NumPy, Matplotlib)
-- **SQL** (PostgreSQL, MySQL)
-- **Jupyter Notebook**
-- Статистический анализ
-
-**Визуализация:**
-- **Tableau** / **Power BI**
-- **Excel** (сводные таблицы, графики)
-- **Google Sheets**
-
-**Инструменты:**
-- **Git** и **GitHub**
-- **VS Code**
-- **Google Colab**
+Открыт к сотрудничеству в интересных проектах!
 
 ---
 
-### 📈 Мои проекты
+### 🛠️ Мой стек
 
-Здесь будут мои учебные и pet-проекты по анализу данных. Пока что это пространство для будущих достижений! 🚀
+**📊 Анализ:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
+
+**📈 Визуализация:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-plain.svg" title="Tableau" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/microsoft-power-bi-2019.png" title="Power BI" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="40" height="40"/>&nbsp;
+
+**🔧 Инструменты:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" title="Excel" width="40" height="40"/>&nbsp;
+
+---
+
+### 📁 Мои проекты
+
+**🎯 [Аналитическая система обработки данных кибернетических систем здания](ссылка)** – Краткое описание (Данный проект описывает в себе подход к анализу данных систем зданий, получение информации из которых может позволить принять решения в сторону автоматизации)  
+*Технологии: Python, Pandas, Matplotlib*
+
+**🎯 [Название проекта 2](ссылка)** – Краткое описание  
+*Технологии: SQL, Tableau*
+
+---
+
+### 🎓 Образование и сертификаты
+
+- **Курс "Аналитик данных"** (Karpov.Courses ) – 2026
+- **SQL для анализа данных** (Stepik / Coursera) – 2024
+- **Основы Python для анализа данных** – 2024
+
+---
+
+### 📞 Контакты
+
+💬 **Telegram:** [@ваш_логин](https://t.me/sssxvs)  
+📧 **Email:** ваша@почта.com  
+📞**Телефон:** [Андрей Антошкин](+7-968-534-16-45)
 
 ---
 
 <div align="center">
+  
+### 📊 Активность GitHub
 
-### 📊 Активность на GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="Статистика GitHub" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" alt="Языки программирования" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AndreyAntoshkin&show_icons=true&theme=default&hide_border=true" alt="Статистика" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyAntoshkin&layout=compact&theme=default&hide_border=true" alt="Языки" height="165"/>
 
 </div>
