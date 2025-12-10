@@ -31,7 +31,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Google_Colab_pic.png" title="Colab" width="40" height="40"/>&nbsp;
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Colab" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>&nbsp;
 <img src="https://logosandtypes.com/wp-content/uploads/2024/02/NumPy.png" title="Numpy" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="40" height="40"/>&nbsp;
