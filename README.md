@@ -30,13 +30,14 @@
 ### 🛠️ Мой стек
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
-<img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Yandex-DataLens-Logo.png" title="DataLens" width="40" height="40"/>&nbsp;
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaVUWnndes9Ym7bfBO5kn2s0QOuVaSJf5x_Q&s" title="Numpy" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="40" height="40"/>&nbsp;
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" width="40" height="40"/>&nbsp;
 <img src="https://www.diglib.org/wp-content/uploads/sites/3/2015/04/Plotly-logo.png" title="Plotly" width="40" height="40"/>&nbsp;
+<img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Yandex-DataLens-Logo.png" title="DataLens" width="40" height="40"/>&nbsp;
+<img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Redash-Logo.png" title="Redash" width="40" height="40"/>&nbsp;
 
 ---
 
