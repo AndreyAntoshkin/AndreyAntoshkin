@@ -39,7 +39,7 @@
 <img src="https://www.diglib.org/wp-content/uploads/sites/3/2015/04/Plotly-logo.png" title="Plotly" width="40" height="40"/>&nbsp;
 <img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Yandex-DataLens-Logo.png" title="DataLens" width="40" height="40"/>&nbsp;
 <img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Redash-Logo.png" title="Redash" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/SQL_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" title="SQL" width="40" height="40"/>&nbsp;
+<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL" width="40" height="40"/>&nbsp;
 
 ---
 
